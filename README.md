@@ -1,2 +1,2 @@
 # TS-PC
-Code Python utilisé pour illustrer les cours de TS en PC
+Programmes, en Python, utilisés pour illustrer les cours de TS en PC.
