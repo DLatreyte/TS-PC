@@ -63,10 +63,11 @@ Un objet flotte à la surface de l'eau dans une cuve longue et étroite. Plonger
 - Qu'observe-t-on lorsque la tige touche la surface de l'eau ?
 - Décrire le mouvement de l'objet. Quelle grandeur varie au cours de ce mouvement ? Que peut-on dire de la position finale de l'objet, lorsque la surface de l'eau est à nouveau parfaitement plane ?
 
-
+<center>
 <video width="320" height="240" controls>
   <source src="./videos/flotteur_surface_eau.mp4" type="video/mp4">
 </video>
+</center>
 
 
 
